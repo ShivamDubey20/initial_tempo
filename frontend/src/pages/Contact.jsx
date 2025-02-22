@@ -17,7 +17,7 @@ const Contact = () => {
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className=' text-gray-500'>54709 Willms Station <br /> India</p>
           <p className=' text-gray-500'>Tel: (415) 555-0132 <br /> Email: admin@kodify.com</p>
-          <p className='font-semibold text-xl text-gray-600'>Careers at Forever</p>
+          <p className='font-semibold text-xl text-gray-600'>Products at Forever</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Contact Us</button>
         </div>
       </div>
